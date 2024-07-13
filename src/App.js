@@ -5,7 +5,7 @@ import TextForm from "./components/TextForm";
 function App(props) {
   return (
    <>
-     < navbar title ="textUtils "/>
+     <Navbar title ="textUtils "/>
      
      <div className="container my-3" >
      <TextForm heading = "Enter The Text Analyze"/>
